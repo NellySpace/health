@@ -1,0 +1,269 @@
+.f_page{
+    width:auto;
+    height:auto;
+    border: 10px solid rgb(55, 54, 54);
+    background-image: url(https://modelsguide.online/wp-content/uploads/2022/12/3aa54499-bb13-4ad0-857b-baedce578a8e.jpeg);
+}
+.borderr{
+    background-color: rgba(169, 84, 84, 0.65);
+    opacity: 0.7; 
+    width:30%;
+    height:50%; 
+    
+    font-family: Roboto;
+    text-align: center;
+color:rgb(241, 238, 238);
+    margin-top:30%;
+    margin-bottom: 15%;
+    padding-bottom:10%;
+    padding-left: 15%;
+    padding-right: 15%;
+margin-left: 20%;
+ padding-top: 3%; 
+  font-size: 25px;
+}
+.s_page{
+    width:auto;
+    height:auto;
+  display: flex;
+  justify-content:space-between;
+    border: 10px solid rgb(55, 54, 54);
+    
+}
+.name{
+text-transform: uppercase;
+}
+.storona_1{
+     width:100%;
+    height:1000px;
+    
+  background-image: url(https://www.las.ru/media/blog_extra_images/working-in-office-now-12.jpg);
+}
+.pp{
+    font-size: 400%;
+    font-family: Roboto;
+    color:rgb(241, 238, 238);
+   padding-right:30%;
+   padding-top: 110%;
+   text-align: center;
+}
+.storona_2{
+    background-color: rgb(240, 150, 150);
+    width:100%;
+    height:1000px;
+}
+#k1{
+    color:white;
+    font-size: 40px;
+    padding-bottom: 2px;
+   margin-top: 20%;
+   margin-left: 10%;
+   text-decoration: underline;
+}
+.page_3{
+    width:auto;
+    height:auto;
+  
+    display: flex;
+    justify-content:space-between;
+    background-color: white;
+    border: 10px solid rgb(55, 54, 54);
+
+}
+.imgg{
+    width:100%;
+    height:750px;
+   background-color:  rgb(246, 195, 195);
+   text-align: center;
+   padding-top:10%;
+}
+.p2{
+    text-transform: uppercase;
+      font-size: 100%;
+    text-align: center;
+    padding-top: 10%;
+}
+.pp3{
+    font-size: 200%;
+    text-align: justify;
+    text-transform:none;
+    color:rgb(236, 162, 162);
+    padding-left:10%;
+    padding-right:10%;
+    padding-bottom: 10%;
+}
+.page_4{
+    width:auto;
+    height:auto;
+  
+    display: flex;
+    justify-content:space-between;
+    background-color: white;
+    border: 10px solid rgb(55, 54, 54);
+
+}
+.imgg1{
+    width:100%;
+    height:600px;
+  background-image: url(https://www.studylab.ru/upload/wisywig/untitled%20folder/5462F5A249826BEDF74FD9AAAC6158EF.jpg);
+   text-align: center;
+   padding-top:10%;
+}
+.p22{
+    text-transform: uppercase;
+      font-size: 100%;
+    text-align:end;
+    padding-top: 5%;
+    padding-right:10px;
+    color:white;
+background-color:  rgb(246, 195, 195);
+}
+.p33{
+    text-transform: none;
+    font-size: 200%;
+    text-align:end;
+    color:white;
+    padding-top: 10%;
+    padding-left:10%;
+    padding-right:5%;
+    padding-bottom: 10%;
+    
+}
+.page_5{
+    width:auto;
+    height:auto;
+border:10px solid rgb(55, 54, 54);
+
+
+}
+
+
+
+.h11{
+    padding-top: 10%;
+    text-align: center;
+    color:white;
+    text-transform: uppercase;
+    font-size: 100%;
+}
+.general_block{
+    display: flex;
+    align-items: center;
+    margin-top: 8%;
+    
+    
+ }
+ .block_1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 3%;
+    padding: 5%;
+    color:white;
+    text-align: center;
+    font-size: 25px;
+    border-right: 2px solid black;
+}
+.block_2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 3%;
+    padding: 5%;
+    color:white;
+    text-align: center;
+    font-size: 25px;
+    border-right: 2px solid black;
+}
+.block_3{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 3%;
+    padding: 5%;
+    color:white;
+    text-align: center;
+    font-size: 25px;
+}
+.page_6{
+    width:auto;
+    height:auto;
+    display: flex;
+    justify-content:space-between;
+    border: 10px solid rgb(55, 54, 54);
+}
+.strn1{
+    background-image: url(https://s0.rbk.ru/v6_top_pics/media/img/9/83/756070851506839.jpg);
+   padding-right: 30%;
+   padding-left: 25%;
+    padding-bottom: 35%;
+    padding-top: 20%;
+}
+.strn2{
+    background-color: rgb(247, 158, 158);
+    color:white;
+    font-size: 200%;
+    text-align: end;
+   
+    padding-top: 10%;
+
+}
+.imagee{
+    margin-bottom:20%;
+}
+.page_7{
+    width:auto;
+    height:auto;
+border:10px solid rgb(55, 54, 54);
+ 
+}
+#h111{
+    text-align: center;
+    color:rgb(150, 80, 80);
+ font-size: 130px;
+}
+.general_block2{
+    display: flex;
+    align-items: center;
+    margin-top: 8%;
+    
+    
+ }
+ .block_12{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 3%;
+    padding: 5%;
+    color:black;
+    text-align: center;
+    font-size: 19px;
+    
+}
+.block_22{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 3%;
+    padding: 5%;
+    color:black;
+    text-align: center;
+    font-size: 19px;
+   
+}
+.block_32{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 3%;
+    padding: 5%;
+    color:black;
+    text-align: center;
+    font-size: 19px;
+}
+#oo1{
+    border-radius: 300px;;
+}
+#hfhf{
+    color:rgb(150, 80, 80);
+}
